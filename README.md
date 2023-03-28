@@ -19,21 +19,27 @@ Primeiramente vou listar abaixo todos os aplicativos que serão utilizados nesta
 
 Instalado todos os aplicativos o primeiro a ser executado será o XAMPP.
 
-#### 1. Abrir Aplicativo XAMPP.<h4>
+* #### Abrir Aplicativo XAMPP.<h4>
 **Essa será a tela inicial**
 <br>![image](https://user-images.githubusercontent.com/128431873/228098123-7b9acbc0-1efd-4792-b0d1-1b11ff357cd4.png)
 
-#### 2. Ligar sistemas a serem utilizados.<h4>
+* #### Ligar sistemas a serem utilizados.<h4>
 **Você deverá clicar no botão **START**, do APACHE e MYSQL.**
 <br>![image](https://user-images.githubusercontent.com/128431873/228099546-c8aebced-1e28-4877-b33c-23c31196c986.png)
 
-#### 3. **Tela em execução**<h4>
+* #### **Tela em execução**<h4>
 ![image](https://user-images.githubusercontent.com/128431873/228098930-edb95fad-26d0-4625-b16b-90192490ecbf.png)
 
 
 _***OBS:** Só após rodar o XAMPP será possível utilizar o MySQL Workbench para criar o banco de dados e dar ínicio ao nosso projeto._
 
-<br>**Passo 1:** Criar banco de dados e tabelas
+1. **Passo 1:** Criar banco de dados e tabelas.
+2. **Passo 2:** Criar página web na qual será cadastrado as informações do banco de dados.
+3. **Passo 3:** Criar arquivo no qual irá estabelecer e conferir conexão entre página web e banco de dados.
+<br>_***obs:** é recomendado criar uma mensagem de alerta que confirme se há ou não conexão entre o banco e a página._
+4. **Passo 4:** Criar a INDEX onde os dados inseridos serão apresentados.
+5. **Passo 5:** Criar o arquivo de edição dos dados.
+6. **Passo 6:** Criar o arquivo que posibilitará a exclusão de informações da tabela.
 
 
 
