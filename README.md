@@ -33,13 +33,13 @@ Instalado todos os aplicativos o primeiro a ser executado será o XAMPP.
 
 _***OBS:** Só após rodar o XAMPP será possível utilizar o MySQL Workbench para criar o banco de dados e dar ínicio ao nosso projeto._
 
-1. **Passo 1:** Criar banco de dados e tabelas.
-2. **Passo 2:** Criar página web na qual será cadastrado as informações do banco de dados.
-3. **Passo 3:** Criar arquivo no qual irá estabelecer e conferir conexão entre página web e banco de dados.
+1. **Passo:** Criar banco de dados e tabelas.
+2. **Passo:** Criar página web na qual será cadastrado as informações do banco de dados.
+3. **Passo:** Criar arquivo no qual irá estabelecer e conferir conexão entre página web e banco de dados.
 <br>_***obs:** é recomendado criar uma mensagem de alerta que confirme se há ou não conexão entre o banco e a página._
-4. **Passo 4:** Criar a INDEX onde os dados inseridos serão apresentados.
-5. **Passo 5:** Criar o arquivo de edição dos dados.
-6. **Passo 6:** Criar o arquivo que posibilitará a exclusão de informações da tabela.
+4. **Passo:** Criar a INDEX onde os dados inseridos serão apresentados.
+5. **Passo:** Criar o arquivo de edição dos dados.
+6. **Passo:** Criar o arquivo que posibilitará a exclusão de informações da tabela.
 
 
 
