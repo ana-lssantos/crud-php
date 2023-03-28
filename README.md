@@ -13,8 +13,9 @@ _**CREAT:**_ é a operação que realiza a criação das tabelas, e faz o regist
 ### Criação do Projeto CRUD <h3>
 
 Primeiramente vou listar abaixo todos os aplicativos que serão utilizados nesta aplicação, para que possam fazer o download.
-* [Visual Studio Code](https://code.visualstudio.com/download)src=https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif>
-* [Xampp](https://www.apachefriends.org/pt_br/download.html)src=https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif>
-* [MySQL Workbench](https://www.mysql.com/products/workbench/)src=https://i.pinimg.com/originals/50/38/f6/5038f6672f089f3a50c4f075feddfc42.gif>
+* [Visual Studio Code](https://code.visualstudio.com/download)
+* [Xampp](https://www.apachefriends.org/pt_br/download.html)
+* [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
-Após obter todos os aplicativos
+Instalado todos os aplicativos o primeiro a ser executado será o XAMPP.
+![image](https://user-images.githubusercontent.com/128431873/228098123-7b9acbc0-1efd-4792-b0d1-1b11ff357cd4.png)
